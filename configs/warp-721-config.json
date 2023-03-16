@@ -1,0 +1,18 @@
+{
+    "goerli": {
+      "type": "collateral",
+      "token": "0x7b533C9e85B9Eb4Aa2C77e6CE5648f325db92EDf",
+      "owner": "0x0439427C42a099E7E362D86e2Bbe1eA27300f6Cb",
+      "mailbox": "0xCC737a94FecaeC165AbCf12dED095BB13F037685",
+      "interchainGasPaymaster": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+    },
+    "moonbasealpha": {
+        "type": "synthetic",
+        "token": "0x601e5297276bae11b2a3582ad4788cde79dc42c2",
+        "totalSupply": 0,
+        "owner": "0x0439427C42a099E7E362D86e2Bbe1eA27300f6Cb",
+        "mailbox": "0xCC737a94FecaeC165AbCf12dED095BB13F037685",
+        "interchainGasPaymaster": "0xF90cB82a76492614D07B82a7658917f3aC811Ac1"
+    }
+  }
+  
